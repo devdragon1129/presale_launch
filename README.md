@@ -1,2 +1,0 @@
-# presale_launch
-pinksale
